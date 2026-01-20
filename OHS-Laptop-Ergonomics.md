@@ -1,0 +1,1 @@
+Risks of use a laptop without an external monitor o keyboard? 
