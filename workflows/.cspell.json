@@ -1,0 +1,11 @@
+{
+    "version": "0.2",
+    "language": "en,es",
+    "words": [
+        "CI",
+        "CD",
+        "GitHub",
+        "linting",
+        "DevOps"
+    ]
+}
