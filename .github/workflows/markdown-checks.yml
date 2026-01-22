@@ -1,9 +1,9 @@
-name: Markdown Checks
+name: Markdown checks
 
 on:
   pull_request:
     paths:
-      - '**/*.md'
+      - "**/*.md"
 
 jobs:
   markdown-checks:
