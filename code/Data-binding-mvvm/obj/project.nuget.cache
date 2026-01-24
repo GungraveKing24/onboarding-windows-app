@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "wdhoOQR7UMs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gungrave\\Desktop\\Pasantia\\onboarding-windows-app\\code\\Data-binding-mvvm\\MainWindow.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gungrave\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Gungrave\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Gungrave\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Gungrave\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}
