@@ -1,5 +1,5 @@
 ﻿MainWindow
-
+1.0.0.0
 
 winexe
 C#
@@ -12,7 +12,7 @@ TRACE;DEBUG;NET;NET6_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR
 C:\Users\Gungrave\Desktop\Pasantia\onboarding-windows-app\code\Data-binding-mvvm\App.xaml
 1150018817
 
-4-1639520560
+6-21911141
 194-1872874809
 UserViewModel.xaml;
 

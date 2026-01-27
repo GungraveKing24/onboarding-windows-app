@@ -1,0 +1,28 @@
+﻿    <Application x:Class="WpfStylingDemo.App"
+                 xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                 xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                 xmlns:local="clr-namespace:WpfStylingDemo"
+                 StartupUri="MainWindow.xaml">
+        <Application.Resources>
+            <!-- Global Button Style -->
+            <Style x:Key="PrimaryButtonStyle" TargetType="Button">
+                <Setter Property="Background" Value="#2D89EF"/>
+                <Setter Property="Foreground" Value="White"/>
+                <Setter Property="FontSize" Value="14"/>
+                <Setter Property="Padding" Value="12,6"/>
+            </Style>
+
+            <!-- Custom Control Template -->
+            <ControlTemplate x:Key="RoundedButtonTemplate" TargetType="Button">
+                <Border
+                Background="{TemplateBinding Background}"
+                CornerRadius="12"
+                BorderBrush="Black"
+                BorderThickness="1">
+                    <ContentPresenter
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Center"/>
+                </Border>
+            </ControlTemplate>
+        </Application.Resources>
+    </Application>

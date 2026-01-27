@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gungrave\\source\\repos\\EventCommandWPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{086BC6C7-6347-4A35-A786-4A460EDB0C56}|EventCommandWPF\\EventCommandWPF.csproj|c:\\users\\gungrave\\source\\repos\\eventcommandwpf\\eventcommandwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{086BC6C7-6347-4A35-A786-4A460EDB0C56}|EventCommandWPF\\EventCommandWPF.csproj|solutionrelative:eventcommandwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{086BC6C7-6347-4A35-A786-4A460EDB0C56}|EventCommandWPF\\EventCommandWPF.csproj|c:\\users\\gungrave\\source\\repos\\eventcommandwpf\\eventcommandwpf\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{086BC6C7-6347-4A35-A786-4A460EDB0C56}|EventCommandWPF\\EventCommandWPF.csproj|solutionrelative:eventcommandwpf\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{086BC6C7-6347-4A35-A786-4A460EDB0C56}|EventCommandWPF\\EventCommandWPF.csproj|c:\\users\\gungrave\\source\\repos\\eventcommandwpf\\eventcommandwpf\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{086BC6C7-6347-4A35-A786-4A460EDB0C56}|EventCommandWPF\\EventCommandWPF.csproj|solutionrelative:eventcommandwpf\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{086BC6C7-6347-4A35-A786-4A460EDB0C56}|EventCommandWPF\\EventCommandWPF.csproj|c:\\users\\gungrave\\source\\repos\\eventcommandwpf\\eventcommandwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{086BC6C7-6347-4A35-A786-4A460EDB0C56}|EventCommandWPF\\EventCommandWPF.csproj|solutionrelative:eventcommandwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{086BC6C7-6347-4A35-A786-4A460EDB0C56}|EventCommandWPF\\EventCommandWPF.csproj|c:\\users\\gungrave\\source\\repos\\eventcommandwpf\\eventcommandwpf\\eventcommandwpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{086BC6C7-6347-4A35-A786-4A460EDB0C56}|EventCommandWPF\\EventCommandWPF.csproj|solutionrelative:eventcommandwpf\\eventcommandwpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Gungrave\\source\\repos\\EventCommandWPF\\EventCommandWPF\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "EventCommandWPF\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\Gungrave\\source\\repos\\EventCommandWPF\\EventCommandWPF\\MainViewModel.cs",
+              "RelativeToolTip": "EventCommandWPF\\MainViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T20:15:24.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventCommandWPF",
+              "DocumentMoniker": "C:\\Users\\Gungrave\\source\\repos\\EventCommandWPF\\EventCommandWPF\\EventCommandWPF.csproj",
+              "RelativeDocumentMoniker": "EventCommandWPF\\EventCommandWPF.csproj",
+              "ToolTip": "C:\\Users\\Gungrave\\source\\repos\\EventCommandWPF\\EventCommandWPF\\EventCommandWPF.csproj",
+              "RelativeToolTip": "EventCommandWPF\\EventCommandWPF.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-26T20:10:18.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Gungrave\\source\\repos\\EventCommandWPF\\EventCommandWPF\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "EventCommandWPF\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\Gungrave\\source\\repos\\EventCommandWPF\\EventCommandWPF\\RelayCommand.cs",
+              "RelativeToolTip": "EventCommandWPF\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T20:10:40.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Gungrave\\source\\repos\\EventCommandWPF\\EventCommandWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "EventCommandWPF\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Gungrave\\source\\repos\\EventCommandWPF\\EventCommandWPF\\MainWindow.xaml",
+              "RelativeToolTip": "EventCommandWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-26T20:06:04.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Gungrave\\source\\repos\\EventCommandWPF\\EventCommandWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "EventCommandWPF\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Gungrave\\source\\repos\\EventCommandWPF\\EventCommandWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "EventCommandWPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T20:06:04.336Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
