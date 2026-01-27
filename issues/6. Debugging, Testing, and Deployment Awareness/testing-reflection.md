@@ -9,6 +9,7 @@ For testing WPF applications, the most common unit testing frameworks are NUnit,
 #### How can you design tests to cover critical functionalities and edge cases?
 Design tests for critical functionality and edge cases require a risk-based approach, combining boundary value analisis, equivalence partitioning, and exploratory testing to cover both expected behaviors and, importantly, extreme or invalid scenarios.
 
+
 ## 📝 Reflection
 ---
 #### How does implementing tests improve your development process?
