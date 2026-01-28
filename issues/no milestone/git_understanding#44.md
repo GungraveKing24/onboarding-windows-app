@@ -1,5 +1,5 @@
 I change the README.md file in main branch and after that i came that change to test-ci branch
-![alt text](../../images/git_understanding#44.png)
+![alt text](../../images/git_understanding-44.png)
 
 #### What does each command do?
 * `git checkout main -- <file>`: Restores a specific file from the main branch without affecting local changes. Use this when a file you're working on breaks.
