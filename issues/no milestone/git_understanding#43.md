@@ -11,6 +11,7 @@ To give greater control over which changes are included in each commit, allowing
 * To prepare a commit while making other changes
 * Before syncing with the main branch without losing work
 
+
 ![alt text](../../images/git_understanding#43.png)
 ![alt text](../../images/git_understanding#43-1.png)
 ![alt text](../../images/git_understanding#43-2.png)
