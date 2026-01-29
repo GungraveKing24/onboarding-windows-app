@@ -19,3 +19,40 @@ In larger teams, pipelines usually include multiple stages such as unit tests, U
 ## Personal Experience
 I configured a GitHub Actions workflow that ran automatically on Pull Requests.  
 When I opened a test PR, the workflow executed and reported its status directly on GitHub, which helped me understand how CI/CD provides fast feedback and enforces quality gates before merging.
+
+Evudence:
+```yaml
+name: CI Checks
+
+on:
+  pull_request:
+    branches:
+      - main
+      - master
+    paths:
+      - '**/*.md'
+
+jobs:
+  markdown-checks:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install tools
+        run: npm install -g markdownlint-cli cspell
+
+      - name: Run markdownlint
+        run: markdownlint "**/*.md"
+
+      - name: Run cspell
+        run: cspell "**/*.md" --no-progress
+
+```
+
