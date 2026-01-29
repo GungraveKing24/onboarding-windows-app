@@ -1,14 +1,44 @@
-I change the README.md file in main branch and after that i came that change to test-ci branch
-![alt text](../../images/git_understanding-44.png)
-
 #### What does each command do?
-* `git checkout main -- <file>`: Restores a specific file from the main branch without affecting local changes. Use this when a file you're working on breaks.
-* `git cherry-pick <commit>`: Applies a specific commit from another branch to the current one. Use this when a branch has many changes but you only need one.
-* `git log`: Shows the repository's commit history, allowing you to understand how the code has evolved and review past changes or when bugs were introduced.
-* `git seek <file>`: Sees who modifies each line of code, allowing you to verify who worked on it and ask if there are any problems.
+* `git checkout main -- <file>`: I modified README.md in the test-ci branch and then restored it from main.
+The file was reverted without affecting other local changes.
+* `git cherry-pick <commit>`: I created a commit in another branch and cherry-picked only that commit
+into main, avoiding merging unrelated changes.
+* `git log`: I used git log to review the commit history and understand how the file
+evolved over time.
+* `git seek <file>`: I ran git blame on README.md to identify which commit and author last
+modified each line.
 
-#### When would you use it in a real project (hint: these are all really important in long-term projects with multiple developers)?
-When working on a group project with multiple developers, each with their own specific tasks, it's important to keep track of versions and changes made to the application.
+#### When would you use these in a real project?
+In long-running projects with multiple developers, these commands help
+recover files, move specific fixes between branches, analyze history,
+and understand ownership of code.
 
-#### What surprised you when you tried these commands?
-Because of how useful they are for avoiding having to restart a project from scratch in case of a problem, thus saving time and being more efficient. Plus, you get great feedback by knowing who makes changes and where.
+#### What surprised you?
+I was surprised how precise these tools are, especially git cherry-pick
+and git blame, which help isolate changes and responsibility quickly
+without affecting the entire project.
+
+EVIDENCE:
+
+1- git checkout main -- <file>
+I modified README.md in test-ci, then restored it from main using
+git checkout main -- README.md. The file reverted without affecting
+other local changes.
+![alt text](<../../images/git_understanding-44-1.png>)
+
+2- git cherry-pick
+I created a commit in a feature branch and cherry-picked only that
+commit into main instead of merging the entire branch.
+![alt text](<../../images/git_understanding-44-2.png>) 
+![alt text](<../../images/git_understanding-44-3.png>)
+
+3- git log
+I used git log to inspect the commit history and identify when specific
+changes were introduced.
+
+![alt text](../../images/git_understanding-44-4.png)
+
+4- git blame
+I used git blame on README.md to see which commits and authors modified
+each line of the file.
+![alt text](../../images/git_understanding-44-5.png)
