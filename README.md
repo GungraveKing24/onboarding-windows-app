@@ -23,3 +23,5 @@ The rules:
 ## Step 3: Submit your work for review
 
 When you have completed all the issues, you can let your team leader know so they can review and give you feedback. If it's all looking good, you'll move to the next stage: helping develop the Focus Bear app.
+
+This change is for a Pull Request test.
