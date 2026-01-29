@@ -20,7 +20,7 @@ In larger teams, pipelines usually include multiple stages such as unit tests, U
 I configured a GitHub Actions workflow that ran automatically on Pull Requests.  
 When I opened a test PR, the workflow executed and reported its status directly on GitHub, which helped me understand how CI/CD provides fast feedback and enforces quality gates before merging.
 
-Evudencsess: 
+Evidence: 
 ```yaml
 name: CI Checks
 
@@ -56,4 +56,9 @@ jobs:
 
 ```
 
-![alt text](image.png)
+##### Image for Code for CI workflow
+![alt text](../../images/ci-cd.png)
+
+##### Check for CI fail with al my .md files (intensionally)
+![alt text](../../images/ci-cd-1.png)
+![alt text](../../images/ci-cd-2.png)
