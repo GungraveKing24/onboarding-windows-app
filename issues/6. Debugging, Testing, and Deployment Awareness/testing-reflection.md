@@ -30,12 +30,18 @@ Unit developments are generally easy, fast, and stable, while UI development tes
 #### Set up a simple WPF project that includes a core functionality.
 Funcionalidad:
 * A ViewModel to sum two numbers
+
 ```csharp
-public class CalculatorViewModel
+// Solution TestingWPF
+// CalculatorCalculatorViewModel
+namespace WpfCalculator.ViewModels
 {
-    public int Add(int a, int b)
+    public class CalculatorViewModel
     {
-        return a + b;
+        public int Add(int a, int b)
+        {
+            return a + b;
+        }
     }
 }
 ```
@@ -43,11 +49,40 @@ public class CalculatorViewModel
 * Unit Test with NUnit
 
 ```csharp
-[Test]
-public void Add_ReturnsCorrectSum()
+// Solution TestingWPF.Test
+// CalculatorViewModelTests
+
+using System;
+using System.Collections.Generic;
+using System.Text;
+using NUnit.Framework;
+using WpfCalculator.ViewModels;
+
+namespace TestingWPF.Tests
 {
-    var vm = new CalculatorViewModel();
-    var result = vm.Add(2, 3);
-    Assert.AreEqual(5, result);
+    [TestFixture]
+    internal class CalculatorViewModelTests
+    {
+        [Test]
+        public void Add_ReturnCorrecSum()
+        {
+            // Arrange
+            var vm = new CalculatorViewModel();
+
+            // Act
+            var result = vm.Add(2, 3);
+
+            // Assert
+            Assert.That(result, Is.EqualTo(5));
+        }
+    }
 }
 ```
+
+## Evidence
+
+##### Nugget packages
+![alt text](../../images/testing-0.png)
+
+##### Test running on visual studio 
+![alt text](../../images/testing-1.png)

@@ -40,23 +40,50 @@ Proper management of these factors creates a more stable application, while impr
 🛠️ Task
 ---
 #### Integrate a logging framework (e.g., NLog or Serilog) into a sample C# project.
+#### Implement structured exception handling that logs errors with sufficient detail.
+
 Basic example using Serilog:
 ```csharp
-Log.Logger = new LoggerConfiguration()
-    .WriteTo.Console()
-    .WriteTo.File("logs/app.log")
-    .CreateLogger();
-```
+using System;
+using Serilog;
 
-#### Implement structured exception handling that logs errors with sufficient detail.
-Exception management:
-```csharp
-try
+class Program
 {
-    int result = 10/0;
-} 
-catch (Exception ex)
-{
-    Log.Error(ex, "Error performing the calculation")
+    static void Main()
+    {
+        Log.Logger = new LoggerConfiguration()
+            .MinimumLevel.Debug()
+            .WriteTo.Console()
+            .WriteTo.File("logs/app.log", rollingInterval: RollingInterval.Day)
+            .CreateLogger();
+
+        try
+        {
+            Log.Information("Application started");
+
+            int x = 10;
+            int y = 0;
+
+            int result = x / y; // error intencional
+        }
+        catch (Exception ex)
+        {
+            Log.Error(ex, "An exception occurred while performing division");
+        }
+        finally
+        {
+            Log.CloseAndFlush();
+        }
+    }
 }
 ```
+
+Code in: Root/code/LoggingSample
+
+## Evidence:
+
+##### Running the app  
+![alt text](../../images/logging-exception.png)
+
+##### Checking the log in as a file generated [app20260129].txt 
+![alt text](../../images/logging-exception-1.png)

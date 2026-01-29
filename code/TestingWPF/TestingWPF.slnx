@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="TestingWPF.Tests/TestingWPF.Tests.csproj" />
+  <Project Path="TestingWPF/TestingWPF.csproj" />
+</Solution>

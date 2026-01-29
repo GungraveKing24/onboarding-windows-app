@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gungrave\\source\\repos\\TestingWPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEA7707-945B-46AB-BF1F-99195B1C3106}|TestingWPF.Tests\\TestingWPF.Tests.csproj|c:\\users\\gungrave\\source\\repos\\testingwpf\\testingwpf.tests\\calculatorviewmodeltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DEA7707-945B-46AB-BF1F-99195B1C3106}|TestingWPF.Tests\\TestingWPF.Tests.csproj|solutionrelative:testingwpf.tests\\calculatorviewmodeltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEA7707-945B-46AB-BF1F-99195B1C3106}|TestingWPF.Tests\\TestingWPF.Tests.csproj|c:\\users\\gungrave\\source\\repos\\testingwpf\\testingwpf.tests\\testingwpf.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1DEA7707-945B-46AB-BF1F-99195B1C3106}|TestingWPF.Tests\\TestingWPF.Tests.csproj|solutionrelative:testingwpf.tests\\testingwpf.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEA7707-945B-46AB-BF1F-99195B1C3106}|TestingWPF.Tests\\TestingWPF.Tests.csproj|c:\\users\\gungrave\\source\\repos\\testingwpf\\testingwpf.tests\\testingwpf.tests.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{1DEA7707-945B-46AB-BF1F-99195B1C3106}|TestingWPF.Tests\\TestingWPF.Tests.csproj|solutionrelative:testingwpf.tests\\testingwpf.tests.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F43F66-D159-4ED9-8746-519CB4F18921}|TestingWPF\\TestingWPF.csproj|c:\\users\\gungrave\\source\\repos\\testingwpf\\testingwpf\\testingwpf.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{27F43F66-D159-4ED9-8746-519CB4F18921}|TestingWPF\\TestingWPF.csproj|solutionrelative:testingwpf\\testingwpf.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorViewModelTests.cs",
+              "DocumentMoniker": "C:\\Users\\Gungrave\\source\\repos\\TestingWPF\\TestingWPF.Tests\\CalculatorViewModelTests.cs",
+              "RelativeDocumentMoniker": "TestingWPF.Tests\\CalculatorViewModelTests.cs",
+              "ToolTip": "C:\\Users\\Gungrave\\source\\repos\\TestingWPF\\TestingWPF.Tests\\CalculatorViewModelTests.cs",
+              "RelativeToolTip": "TestingWPF.Tests\\CalculatorViewModelTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T20:42:18.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestingWPF.Tests",
+              "DocumentMoniker": "C:\\Users\\Gungrave\\source\\repos\\TestingWPF\\TestingWPF.Tests\\TestingWPF.Tests.csproj",
+              "RelativeDocumentMoniker": "TestingWPF.Tests\\TestingWPF.Tests.csproj",
+              "ToolTip": "C:\\Users\\Gungrave\\source\\repos\\TestingWPF\\TestingWPF.Tests\\TestingWPF.Tests.csproj",
+              "RelativeToolTip": "TestingWPF.Tests\\TestingWPF.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-29T20:40:16.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestingWPF",
+              "DocumentMoniker": "C:\\Users\\Gungrave\\source\\repos\\TestingWPF\\TestingWPF\\TestingWPF.csproj",
+              "RelativeDocumentMoniker": "TestingWPF\\TestingWPF.csproj",
+              "ToolTip": "C:\\Users\\Gungrave\\source\\repos\\TestingWPF\\TestingWPF\\TestingWPF.csproj",
+              "RelativeToolTip": "TestingWPF\\TestingWPF.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-29T20:39:53.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestingWPF.Tests",
+              "DocumentMoniker": "C:\\Users\\Gungrave\\source\\repos\\TestingWPF\\TestingWPF.Tests\\TestingWPF.Tests.csproj",
+              "RelativeDocumentMoniker": "TestingWPF.Tests\\TestingWPF.Tests.csproj",
+              "ToolTip": "C:\\Users\\Gungrave\\source\\repos\\TestingWPF\\TestingWPF.Tests\\TestingWPF.Tests.csproj",
+              "RelativeToolTip": "TestingWPF.Tests\\TestingWPF.Tests.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-29T20:39:38.935Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
