@@ -1,0 +1,9 @@
+CI
+CD
+GitHub
+WPF
+Serilog
+NUnit
+ViewModel
+Pull
+Repository
