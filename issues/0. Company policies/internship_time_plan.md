@@ -91,3 +91,13 @@
 - Final report presentation  
 - Approval and printing of final report  
 - Internship completion  
+
+Evidence:
+Doing some of my habits 
+![alt text](../../images/intership-time-plan.png)
+
+Taking a focus session to keep going with my work
+![alt text](../../images/intership-time-plan-1.png)
+
+Some of my routines
+![alt text](../../images/intership-time-plan-2.png)
