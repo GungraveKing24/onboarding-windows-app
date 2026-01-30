@@ -1,57 +1,40 @@
-## 🔍 Research & Learn
----
-#### Who are considered vulnerable populations, and what challenges might they face in digital spaces?
-Individuals such as childrens, elderly people, people with disabilities neurodivergent individuals, and those with limited digital literaycy:
-* Difficulty understanding complex interfaces
-* Sensory overload from excessive animations, sounds or notifications
-* Poor accessibility (small text, poor contrast)
-* Increased the exposure to misinformation
-
-#### What ethical considerations are important when designing or working with neurodivergent individuals? (Hint: Avoid overwhelming UX, respect sensory needs, ensure clear communication.)
-* Use clear, direct, and unanbiguous communication
-* Provide predictable and consistent layouts and workflows
-* Avoid assuming a single "correct" way of thinking of working
-
-#### How can you make interactions and content more accessible for people with ADHD or Autism? (e.g., simple language, predictable navigation, reducing cognitive load)
-* Simple navigation between interfaces
-* Don't overstimulate with the interface
-* Don't complicate basic functions.
-
-#### How can we support neurodivergent team members in a professional setting? (Hint: Be clear in communication, respect different working styles, and allow flexibility.)
-* Be clear in your communication
-* Respect how people like to work
-* Provide written instructions
-* Allow for flexibility in schedules and workflows whenever possible
-
-## 📝 Reflection
----
-#### How can you adjust your communication style to be more inclusive of neurodivergent users and teammates?
-Try to be clear with my instructions and don't limit yourself to verbal communication; you need to try other forms of communication. And don't assume they have bad intentions when they use signals that might offend you.
-
-#### What are some common UX or communication pitfalls that might make Focus Bear less accessible or supportive?
-Primarily interface bugs that cause the user to get lost, possibly also connection errors or dependencies on a connection, and important elements not loading in the UI.
-
-#### What is one practical change you can make in your work to better support vulnerable populations?
-Aprender de ellos a travez del feedback y asi entender sus problemas y como ayudar
-
 ## 🛠️ Task
----
-#### Read a first-person account from someone with ADHD or Autism about their experiences with productivity tools. (Hint: Look for blog posts, videos, or community discussions.)
+
+#### Read a first-person account from someone with ADHD or Autism about their experiences with productivity tools.
+
+I read a discussion thread on Reddit by user `Advanced-Potential55` titled  
+“Do any productivity tools actually work for ADHD?”  
+In the thread, the author explains that many productivity apps feel ineffective because:
+* It takes a lot of effort to keep tools updated.
+* They don’t help with procrastination or initiating tasks.
+* They don’t support people who struggle with complex projects or task initiation.
+
+This first-person account highlights how current tools often demand too much effort and fail to address real executive functioning challenges.
+
+Source: https://www.reddit.com/r/ADHD/comments/1ji5uav/do_any_productivity_tools_actually_work_for_adhd (Reddit discussion)
 
 #### Identify one design or communication improvement that could make Focus Bear more accessible.
 
+Based on this account, one concrete improvement would be to **reduce the effort required to interact with the app**. For example:
+* Use simplified task entry with defaults to avoid long setup steps.
+* Provide contextual helpers instead of requiring manual updates.
+* Use gentle, optional prompts that encourage task initiation without pressure.
+
+These changes could support users who struggle with the *start* and *update* mechanics of tasks, which was a clear pain point in the Reddit discussion.
+
 #### Practice writing a clear, patient, and supportive response to a hypothetical user struggling with executive functioning.
 
-Anonimate user "I find it really hard to sitck to the routine. I get distracted, and i feel like the app just keeps reminding me that i'm falling"
+Anonymous user:
+> “I find it really hard to stick to the routine. I get distracted, and I feel like the app just keeps reminding me that I'm failing.”
 
-My anwser: 
+My answer:
 
 Thank you for sharing how you're feeling.
 
-We want you to know that you're not failing. It's very common to struggle to start or maintain a routine.
+We want you to know that you're not failing. It's very common to struggle to start or maintain a routine, especially when distractions or low motivation make it difficult to act.
 
-Focus Bear isn't here to punish you, but to support you. You can progress little by little, take a break when you need to, and you decide when it's time to pick it up again.
+Focus Bear isn't here to punish you but to support you. Progress can be slow, and that’s okay. You can take breaks when needed, and you decide when you're ready to try again.
 
-If you weren't able to complete the routine today, don't worry. Tomorrow is another opportunity, and we're here to make things easier for you, not harder.
+If today didn’t go as planned, that doesn’t erase your effort. Tomorrow is another chance, and we want Focus Bear to be a tool that **encourages you gently**, not one that adds pressure.
 
-If you need help, we're here to help.
+Whenever you feel stuck, try breaking tasks into smaller steps or adjusting reminders so they feel supportive instead of overwhelming. If you need help or want to suggest changes, we’re here for you.
