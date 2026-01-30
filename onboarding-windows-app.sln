@@ -1,0 +1,32 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "code", "code", "{314C6247-30EA-3492-19B6-DF847E3B326F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data-binding-mvvm", "Data-binding-mvvm", "{8F9AA368-B7C3-F462-3049-D5CB589FE1B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainWindow", "code\Data-binding-mvvm\MainWindow.csproj", "{4E828132-8F3F-3F28-C7F1-E5AE7294E8A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E828132-8F3F-3F28-C7F1-E5AE7294E8A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E828132-8F3F-3F28-C7F1-E5AE7294E8A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E828132-8F3F-3F28-C7F1-E5AE7294E8A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E828132-8F3F-3F28-C7F1-E5AE7294E8A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8F9AA368-B7C3-F462-3049-D5CB589FE1B9} = {314C6247-30EA-3492-19B6-DF847E3B326F}
+		{4E828132-8F3F-3F28-C7F1-E5AE7294E8A7} = {8F9AA368-B7C3-F462-3049-D5CB589FE1B9}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79124EC8-2B33-4539-B8CD-73695A69C54B}
+	EndGlobalSection
+EndGlobal

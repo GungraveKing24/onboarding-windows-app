@@ -1,0 +1,19 @@
+{
+  "name": "clean_code_28",
+  "version": "1.0.0",
+  "description": "Clean Code: Chapter 28 - Unit Testing",
+  "main": "clean_code_28.js",
+  "scripts": {
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "format": "prettier --write ."
+  },
+  "devDependencies": {
+    "eslint": "^9.39.2",
+    "prettier": "^3.8.1",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.32.0",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-prettier": "^5.5.5"
+  }
+}

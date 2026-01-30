@@ -1,0 +1,13 @@
+<Window x:Class="SampleApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MVVM Demo" Height="200" Width="300">
+    <StackPanel Margin="20">
+        <TextBlock Text="Name:" FontWeight="Bold"/>
+        <TextBox Text="{Binding Name, Mode=TwoWay}" Padding="5" Margin="0,0,0,10"/>
+        <TextBlock Text="Your Name:" FontWeight="Bold"/>
+        <TextBlock Text="{Binding Name}" FontSize="16" Padding="5"/>
+        <TextBlock Text="Age:" FontWeight="Bold" Margin="0,10,0,0"/>
+        <TextBlock Text="{Binding Age}" FontSize="16" Padding="5"/>
+    </StackPanel>
+</Window>

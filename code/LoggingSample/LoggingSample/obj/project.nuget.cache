@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WzmD8JMsKPc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gungrave\\source\\repos\\LoggingSample\\LoggingSample\\LoggingSample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gungrave\\.nuget\\packages\\serilog\\4.3.0\\serilog.4.3.0.nupkg.sha512",
+    "C:\\Users\\Gungrave\\.nuget\\packages\\serilog.sinks.console\\6.1.1\\serilog.sinks.console.6.1.1.nupkg.sha512",
+    "C:\\Users\\Gungrave\\.nuget\\packages\\serilog.sinks.file\\7.0.0\\serilog.sinks.file.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

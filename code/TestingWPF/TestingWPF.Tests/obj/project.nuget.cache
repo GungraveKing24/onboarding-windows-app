@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "VtJfLyayV+I=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gungrave\\source\\repos\\TestingWPF\\TestingWPF.Tests\\TestingWPF.Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gungrave\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
+    "C:\\Users\\Gungrave\\.nuget\\packages\\microsoft.applicationinsights\\2.23.0\\microsoft.applicationinsights.2.23.0.nupkg.sha512",
+    "C:\\Users\\Gungrave\\.nuget\\packages\\microsoft.testing.extensions.telemetry\\2.0.2\\microsoft.testing.extensions.telemetry.2.0.2.nupkg.sha512",
+    "C:\\Users\\Gungrave\\.nuget\\packages\\microsoft.testing.extensions.trxreport.abstractions\\2.0.2\\microsoft.testing.extensions.trxreport.abstractions.2.0.2.nupkg.sha512",
+    "C:\\Users\\Gungrave\\.nuget\\packages\\microsoft.testing.extensions.vstestbridge\\2.0.2\\microsoft.testing.extensions.vstestbridge.2.0.2.nupkg.sha512",
+    "C:\\Users\\Gungrave\\.nuget\\packages\\microsoft.testing.platform\\2.0.2\\microsoft.testing.platform.2.0.2.nupkg.sha512",
+    "C:\\Users\\Gungrave\\.nuget\\packages\\microsoft.testing.platform.msbuild\\2.0.2\\microsoft.testing.platform.msbuild.2.0.2.nupkg.sha512",
+    "C:\\Users\\Gungrave\\.nuget\\packages\\microsoft.testplatform.adapterutilities\\18.0.1\\microsoft.testplatform.adapterutilities.18.0.1.nupkg.sha512",
+    "C:\\Users\\Gungrave\\.nuget\\packages\\microsoft.testplatform.objectmodel\\18.0.1\\microsoft.testplatform.objectmodel.18.0.1.nupkg.sha512",
+    "C:\\Users\\Gungrave\\.nuget\\packages\\nunit\\4.4.0\\nunit.4.4.0.nupkg.sha512",
+    "C:\\Users\\Gungrave\\.nuget\\packages\\nunit.analyzers\\4.11.2\\nunit.analyzers.4.11.2.nupkg.sha512",
+    "C:\\Users\\Gungrave\\.nuget\\packages\\nunit3testadapter\\6.1.0\\nunit3testadapter.6.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
